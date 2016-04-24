@@ -1,7 +1,7 @@
 name: johnmichaelcooper
 favicon: null
-layout_spectrum: 0.8980830481741577
-typography_spectrum: 0.3076646998524666
+layout_spectrum: 1
+typography_spectrum: 0.50564
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.41031464422121644
-  lightness: 0.95299750007689
+    - '#000000'
+    - '#323232'
+    - '#707070'
+    - '#bbbbbb'
+    - '#d5d5d5'
+  brandStrength: 0.5
+  lightness: 0.5
   saturation: 0.48058093222789466
   rhythmicContrast: 0.03955853567458689
 purpose: []
