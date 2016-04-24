@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[johnmichaelcooper]]></title>
+        <description><![CDATA[johnmichaelcooper]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 24 Apr 2016 16:03:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bonneville Salt Flats Speed Week]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/84306933-fdaa-4792-bf5b-8ceeea982ea4.jpg">]]></description>
+            <link>undefinedbonneville-salt-flats-speed-week/index.html</link>
+            <guid isPermaLink="false">53c08d5d-edfd-499f-933a-b986e9ef3bc6</guid>
+            <pubDate>Sun, 24 Apr 2016 16:03:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
